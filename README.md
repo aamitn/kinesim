@@ -1,10 +1,12 @@
-# robot-gui
-A three.js based 3D robot interface. 
+# KineSim robot-simulator
+![robot-gui](https://m.media-amazon.com/images/I/514Az8t9d2L.png)
+KineSim: A three.js based 3D robot interface. 
 
 # How To
-Download or clone. Open `index.html` or [RoboSim](https://aamitn.github.io/rg/). Enjoy 🤖😀 
+Download or clone. Open `index.html` or [RoboSim](https://aamitn.github.io/kinesim/). Enjoy 🤖😀 
 
 You may need to use Chrome, since some ES6 features are not supported in other browsers yet.
+
 
 ![robot-gui](https://user-images.githubusercontent.com/3062564/31865318-7d97605e-b76d-11e7-8ab4-7c2a9e17be3d.png)
 
