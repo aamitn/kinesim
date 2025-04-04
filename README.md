@@ -3,7 +3,13 @@
 KineSim: A three.js based 3D robot interface. 
 
 # How To
-Download or clone. Open `index.html` or [RoboSim](https://aamitn.github.io/kinesim/). Enjoy 🤖😀 
+Download or clone.
+```
+ git clone https://github.com/aamitn/kinesim.git   
+ cd kinesim
+```
+Open `index.html` or try the hosted app here : [RoboSim](https://aamitn.github.io/kinesim/).
+Enjoy 🤖😀 
 
 You may need to use Chrome, since some ES6 features are not supported in other browsers yet.
 
